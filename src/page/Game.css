@@ -1,0 +1,38 @@
+body {
+  background-color:slategray;
+}
+
+.container {
+  margin: 0 500px;
+  width: 1000px;
+  height: 1000px;
+  font-size: 1.5em;
+  flex-direction: row;
+}
+
+
+.player-container1{
+  height: 150px;
+  width: 300px;
+  margin-left: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.player-container2{
+  height: 20px;
+  width: 370px;
+  margin-bottom: 70px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
